@@ -1,1 +1,20 @@
-{"version":1,"count":1000,"parts":["games-part1.json","games-part2.json"],"cdn":"https://cdn.jsdelivr.net/gh/jsg1049294-png/spiele-for-loading@main/"}
+{
+  "version": 2,
+  "count": 1000,
+  "engines": ["ragdoll", "snake", "pong", "breakout", "memory", "tictactoe", "clicker", "flappy", "maze", "reaction"],
+  "engineNames": {
+    "ragdoll": "Ragdoll Sandbox",
+    "snake": "Snake",
+    "pong": "Pong",
+    "breakout": "Breakout",
+    "memory": "Memory",
+    "tictactoe": "TicTacToe",
+    "clicker": "Clicker",
+    "flappy": "Flappy",
+    "maze": "Maze",
+    "reaction": "Reaction"
+  },
+  "preview": "https://picsum.photos/seed/w5g{id}/160/120",
+  "adjectives": ["Neon", "Pixel", "Turbo", "Galaxy", "Ice", "Fire", "Shadow", "Crystal", "Lucky", "Chaos", "Hyper", "Retro", "Cyber", "Solar", "Lunar", "Quantum", "Mega", "Ultra", "Mini", "Epic"],
+  "nouns": ["Arena", "Rush", "Quest", "Dash", "Blitz", "Zone", "Lab", "Park", "World", "Run", "Hop", "Bounce", "Strike", "Wave", "Drift", "Pulse", "Core", "Forge", "Vault", "Trail"]
+}

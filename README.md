@@ -1,7 +1,8 @@
 # spiele-for-loading
 
-1000 Mini-Spiele Katalog für **Windos 5**.
+1000 Mini-Spiele für **Windos 5**.
 
-Wird dynamisch geladen von: `https://cdn.jsdelivr.net/gh/jsg1049294-png/spiele-for-loading@main/`
+Windos 5 lädt `index.json` von:
+`https://cdn.jsdelivr.net/gh/jsg1049294-png/spiele-for-loading@main/index.json`
 
-Jedes Spiel hat: Name, Engine, Preview-Bild.
+Jedes Spiel hat Preview-Bild + Engine.
